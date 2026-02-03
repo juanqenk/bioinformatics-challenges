@@ -7,3 +7,6 @@ jupyterquiz
 
 # Testing
 pytest
+
+# Lista de estado
+ipywidgets

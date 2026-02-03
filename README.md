@@ -137,4 +137,11 @@ También puedes consultar la versión en script:
 > solución.py
 
 útil para ver una implementación más limpia y reutilizable.
+___________________
+
+Nota: se pueden crear desafios con las plantillas que hay en la carpeta manuales. Para ello hay un script que hay que ejecutar desde la raiz del repositorio
+
+```bash
+python3 utilidades/nuevo_desafio.py 06 "Alineamiento global"
+``` 
 

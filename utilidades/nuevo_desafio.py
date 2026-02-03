@@ -22,8 +22,8 @@ def actualizar_indice(numero, titulo, carpeta):
         f"| {numero} | {titulo} | "
         f"[📘]({carpeta}/teoría.md) | "
         f"[🧩]({carpeta}/desafio.ipynb) | "
-        f"[✅]({carpeta}/solución.ipynb) | "
-        f" |\n"
+        f"[💡]({carpeta}/solución.ipynb) | "
+        f"☐ |\n"
     )
 
     with open(indice, "a", encoding="utf-8") as f:
