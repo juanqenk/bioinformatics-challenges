@@ -1,0 +1,9 @@
+# Entorno base
+jupyterlab>=4.0
+ipykernel
+
+# Cuestionarios en notebooks
+jupyterquiz
+
+# Testing
+pytest

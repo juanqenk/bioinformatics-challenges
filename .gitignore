@@ -1,0 +1,56 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# ======================
+# Jupyter
+# ======================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ======================
+# Archivos temporales
+# ======================
+*.log
+*.tmp
+*.swp
+*~
+
+# ======================
+# Datos (opcional)
+# ======================
+# Descomenta si no quieres subir datasets grandes
+ data/
+# *.fasta
+# *.fastq
+# *.fq
+# *.bam
+# *.sam
+
+# ======================
+# Resultados generados
+# ======================
+results/
+outputs/
+
+# ======================
+# VS Code / IDEs
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# Sistema operativo
+# ======================
+.DS_Store
+Thumbs.db
+
