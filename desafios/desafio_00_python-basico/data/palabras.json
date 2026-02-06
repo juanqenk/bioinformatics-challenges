@@ -1,0 +1,17 @@
+[{
+        "question": "¿Cuantas veces aparece la palabra 'it'?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 36,
+                "correct": true,
+                "feedback": "¡Correcto!."
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "No es correcto. Sigue contando."
+            }
+        ]
+    }]

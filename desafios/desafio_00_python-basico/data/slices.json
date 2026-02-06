@@ -1,0 +1,28 @@
+[
+    {
+        "question": "Separa la cadena 'platelmintoR2D2Bienrepercusion654Panderetahecho' entre las posiciones 15, 18, 42, 46. ¿Qué palabras aparecen?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Bien hecho",
+                "correct": true,
+                "feedback": "¡Correcto! Has usado bien los índices."
+            },
+            {
+                "answer": "Kings horses",
+                "correct": false,
+                "feedback": "No es correcto. Revisa los cortes en las posiciones indicadas."
+            },
+            {
+                "answer": "great fall",
+                "correct": false,
+                "feedback": "No es correcto. Revisa los cortes en las posiciones indicadas."
+            },
+            {
+                "answer": "Humpty",
+                "correct": false,
+                "feedback": "Estás cerca, pero te falta la segunda palabra."
+            }
+        ]
+    }
+]

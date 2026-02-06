@@ -1,0 +1,17 @@
+[{
+        "question": "¿Cuanto suman todos los enteros impares desde 4138 a 8214?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 12586688,
+                "correct": true,
+                "feedback": "¡Correcto! Buen cálculo."
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "No es correcto. Revisa el primer y último impar, puede que te los hayas dejado fuera."
+            }
+        ]
+    }]

@@ -1,0 +1,17 @@
+[{
+        "question": "¿Cuál es el cuadrado de la hipotenusa del triángulo rectángulo cuyos catetos miden 3 y 5?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 34,
+                "correct": true,
+                "feedback": "¡Correcto! Aplicaste bien el teorema de Pitágoras."
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "No es correcto. Recuerda: h² = 3² + 5²."
+            }
+        ]
+    }]
